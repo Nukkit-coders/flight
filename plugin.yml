@@ -1,0 +1,9 @@
+name: Social-Fly
+version: "1.0"
+author: socialclubz.com
+api: ["1.0.0"]
+main: me.socialclubz.com.fly
+commands:
+  fly:
+    description: Let you fly around the world
+    permission: social.fly
